@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/Myportfolio/static/css/main.cd13b291.css",
-    "main.js": "/Myportfolio/static/js/main.56ecf5db.js",
+    "main.css": "/Myportfolio/static/css/main.e05ae65a.css",
+    "main.js": "/Myportfolio/static/js/main.cb209451.js",
     "static/js/453.ed3810f9.chunk.js": "/Myportfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/Swiggy-clone.png": "/Myportfolio/static/media/Swiggy-clone.a4e820f40b7be7aaea93.png",
+    "static/media/Afro-hair1.png": "/Myportfolio/static/media/Afro-hair1.630714916f4acba6b416.png",
+    "static/media/Skinoy1.png": "/Myportfolio/static/media/Skinoy1.95c0de076004556717e7.png",
+    "static/media/Form.png": "/Myportfolio/static/media/Form.529bf6706583725ea39c.png",
+    "static/media/Login.png": "/Myportfolio/static/media/Login.4f16e40d31e8b8a110ba.png",
+    "static/media/Chloro1.png": "/Myportfolio/static/media/Chloro1.7baeffc43dc483d43cab.png",
+    "static/media/Front1.png": "/Myportfolio/static/media/Front1.de564fff4980c513be21.png",
     "index.html": "/Myportfolio/index.html",
-    "main.cd13b291.css.map": "/Myportfolio/static/css/main.cd13b291.css.map",
-    "main.56ecf5db.js.map": "/Myportfolio/static/js/main.56ecf5db.js.map",
+    "main.e05ae65a.css.map": "/Myportfolio/static/css/main.e05ae65a.css.map",
+    "main.cb209451.js.map": "/Myportfolio/static/js/main.cb209451.js.map",
     "453.ed3810f9.chunk.js.map": "/Myportfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd13b291.css",
-    "static/js/main.56ecf5db.js"
+    "static/css/main.e05ae65a.css",
+    "static/js/main.cb209451.js"
   ]
 }
