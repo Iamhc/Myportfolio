@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Myportfolio/static/css/main.e05ae65a.css",
+    "main.css": "/Myportfolio/static/css/main.a3ec22fd.css",
     "main.js": "/Myportfolio/static/js/main.cb209451.js",
     "static/js/453.ed3810f9.chunk.js": "/Myportfolio/static/js/453.ed3810f9.chunk.js",
     "static/media/Swiggy-clone.png": "/Myportfolio/static/media/Swiggy-clone.a4e820f40b7be7aaea93.png",
@@ -11,12 +11,12 @@
     "static/media/Chloro1.png": "/Myportfolio/static/media/Chloro1.7baeffc43dc483d43cab.png",
     "static/media/Front1.png": "/Myportfolio/static/media/Front1.de564fff4980c513be21.png",
     "index.html": "/Myportfolio/index.html",
-    "main.e05ae65a.css.map": "/Myportfolio/static/css/main.e05ae65a.css.map",
+    "main.a3ec22fd.css.map": "/Myportfolio/static/css/main.a3ec22fd.css.map",
     "main.cb209451.js.map": "/Myportfolio/static/js/main.cb209451.js.map",
     "453.ed3810f9.chunk.js.map": "/Myportfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e05ae65a.css",
+    "static/css/main.a3ec22fd.css",
     "static/js/main.cb209451.js"
   ]
 }
