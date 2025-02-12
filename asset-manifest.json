@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Myportfolio/static/css/main.bf03e87c.css",
-    "main.js": "/Myportfolio/static/js/main.e950ca15.js",
+    "main.css": "/Myportfolio/static/css/main.287c39d2.css",
+    "main.js": "/Myportfolio/static/js/main.17d88102.js",
     "static/js/453.ed3810f9.chunk.js": "/Myportfolio/static/js/453.ed3810f9.chunk.js",
     "static/media/Swiggy-clone.png": "/Myportfolio/static/media/Swiggy-clone.a4e820f40b7be7aaea93.png",
     "static/media/Afro-hair1.png": "/Myportfolio/static/media/Afro-hair1.630714916f4acba6b416.png",
@@ -11,12 +11,12 @@
     "static/media/Chloro1.png": "/Myportfolio/static/media/Chloro1.7baeffc43dc483d43cab.png",
     "static/media/Front1.png": "/Myportfolio/static/media/Front1.de564fff4980c513be21.png",
     "index.html": "/Myportfolio/index.html",
-    "main.bf03e87c.css.map": "/Myportfolio/static/css/main.bf03e87c.css.map",
-    "main.e950ca15.js.map": "/Myportfolio/static/js/main.e950ca15.js.map",
+    "main.287c39d2.css.map": "/Myportfolio/static/css/main.287c39d2.css.map",
+    "main.17d88102.js.map": "/Myportfolio/static/js/main.17d88102.js.map",
     "453.ed3810f9.chunk.js.map": "/Myportfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf03e87c.css",
-    "static/js/main.e950ca15.js"
+    "static/css/main.287c39d2.css",
+    "static/js/main.17d88102.js"
   ]
 }
